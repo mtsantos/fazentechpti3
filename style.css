@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightgreen;
+}
+
+.menu{
+    background-color: lightpink;
+}
+
+ol{
+    display: flex;
+    justify-content: center;
+}
+
+ol li {
+    padding: 10px;
+
+}
+* a{
+    text-decoration: none;
+    color: tomato;
+}
+.conteudo{
+    background-color: lightseagreen;
+}
+
+.logo p{
+    font-size: 65px;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.cadvacas{
+    display: flex;
+    justify-content: center;
+    
+}
+.button{
+    font-size: 30px;
+    background-color: mediumorchid;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.button:hover{
+    background-color: springgreen;
+}
+.branca{
+    color: mintcream;
+}
+.listvacas{
+    display: flex;
+    justify-content: center;
+}
+
+.listvacas p{
+    font-size: 30px;
+}
+
+.footer{
+    background-color: lightskyblue;
+}
+
+.menu ol li{
+    list-style: none;
+}
+
+.container{
+    background-color: bisque;
+    display: block;
+    max-width: 960px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
